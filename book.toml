@@ -1,0 +1,9 @@
+[book]
+tite = "Ressource d'enseignement libre sur VCV Rack"
+authors = ["Thomas O Fredericks"]
+language = "fr"
+multilingual = false
+src = "rel-vcv-rack-src"
+
+[build]
+build-dir = "docs"
